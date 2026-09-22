@@ -1,0 +1,6 @@
+{
+  "name": "Let's Chat",
+  "description": "Real connection messaging, video & voice calls, location sharing, geofencing alerts, encryption, and stunning love chat themes.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
